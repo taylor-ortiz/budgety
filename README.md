@@ -1,3 +1,3 @@
 # budgety
 JavaScript budgeting app
-![Test Image 1](http://craftbeerpassport-b860.kxcdn.com/wp-content/uploads/2018/10/Black-Lab-Brewing-Logo.png)
+![Test Image 1](https://github.com/taylor-ortiz/budgety/blob/master/Screen%20Shot%202019-07-21%20at%207.25.13%20AM.png)
